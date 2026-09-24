@@ -1,0 +1,77 @@
+header{
+    background-color: #1E3A8A ;
+    padding: 15px;
+    text-align: center;
+    height: 240px;
+}
+
+
+header p{
+    font-size:20px;
+    color:#0F172A
+}
+.ambiente{
+  border: 4px solid  #1E3A8A ;
+  background-color: #bcdbf8 ;
+  margin-top: 5px;
+  width: 850px;
+  border-radius: 15px;
+  margin: 0px auto;
+  margin-bottom: 3px;
+  padding: 7px;
+  margin-top: 10px;
+  font-size: 20px;
+  list-style: inside;
+}
+#imagem1{
+    display: block;
+    width: 20%;
+   margin: 0px auto;
+}
+
+nav{
+  margin-top: 10px;
+}
+
+nav a{
+  display: inline-block; /*faz os links ficarem na horizontal*/
+  background-color:  #2563EB;
+  color: #0F172A;
+  padding: 10px 18px;
+  border-radius: 10px;
+  margin: 5px 10px;
+  text-decoration: none; /*tira o sublinhado*/
+}
+
+main{
+    
+    border: 4px solid  #558ad4;
+    background-color:#ddeafc;
+    width: 900px;
+    margin: 0px auto;
+    padding: 20px ;
+    border-radius: 15px;
+    margin-top: 0px;
+    margin-bottom: 300px;
+}
+main p{
+  margin-top: 10px;
+  margin-bottom: 3px;
+}
+
+main li{
+  margin-top: 5px;
+}
+
+
+img{
+    display: block;
+    width: 60%;
+    margin: 0px auto;
+    padding: 15px 22px;
+    border-radius: 15px;
+}
+
+body{
+     background-color: #F8FAFC;
+}

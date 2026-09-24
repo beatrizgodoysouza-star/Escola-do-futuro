@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+#imagem1{
+    display: block;
+    width: 20%;
+   margin: 0px auto;
+}
+
+nav{
+  margin-top: 10px;
+}
+
+nav a{
+  display: inline-block; /*faz os links ficarem na horizontal*/
+  background-color:  #2563EB;
+  color: #0F172A;
+  padding: 10px 18px;
+  border-radius: 10px;
+  margin: 5px 10px;
+  text-decoration: none; /*tira o sublinhado*/
+}
+
+header{
+    background-color: #1E3A8A ;
+    padding: 15px;
+    text-align: center;
+    /*background: linear-gradient( #b7d8f6, #1E3A8A); /*degradê*/
+    height: 230px;
+}
+
+.sobre{
+ border: 3px solid  #1E3A8A ;
+  background-color: #b7d8f6 ;
+  margin-top: 10px;
+  width: 1000px;
+  border-radius: 15px;
+  margin: 0px auto;
+  margin-bottom: 15px;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+
+}
+
+.sobre p{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.sobre ul{
+  padding: 5px;
+ font-size: 20px;
+  
+}
+
+.sobre li{
+  padding: 5px;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+body{
+  background-color: #deeaf6 ;
+}
+
+main{
+  padding: 5px;
+}
+
+.contato{
+ border: 3px solid  #1E3A8A ;
+  background-color: #b7d8f6 ;
+  margin-top: 10px;
+  width: 1000px;
+  border-radius: 15px;
+  margin: 0px auto;
+  margin-bottom: 15px;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+
+}
+
+h3{
+  margin-bottom: 10px;
+}

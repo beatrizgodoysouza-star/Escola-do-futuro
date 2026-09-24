@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+nav{
+  margin-top: 10px;
+}
+
+nav a{
+  display: inline-block; /*faz os links ficarem na horizontal*/
+  background-color:  #2563EB;
+  color: #0F172A;
+  padding: 10px 18px;
+  border-radius: 10px;
+  margin: 5px 10px;
+  text-decoration: none; /*tira o sublinhado*/
+}
+
+header{
+    background-color: #1E3A8A ;
+    padding: 15px;
+}
+
+header p{
+    font-size:20px;
+    color:#0F172A
+}
+#imagem1{
+    display: block;
+    width: 20%;
+   margin: 0px auto;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin: 0px auto;
+    padding: 15px 22px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+body{
+    background-color: #d6ebff ;
+}
+.apresentação{
+  border: 3px solid  #1E3A8A ;
+  background-color: #b7d8f6 ;
+  width: 900px;
+  border-radius: 15px;
+  margin: 0px auto;
+  margin-bottom:30px;
+  padding: 20px;
+}
+.apresentação p{
+    font-size: 20px;
+}
+
+#chamada{
+  background-color: #2563EB;
+  color: #0F172A;
+  padding: 15px 17px;
+  border-radius: 10px;
+  display: block; /*muda o comportamento do elemento, para um bloco, ocupando a largura da linha toda */
+  width: 270px;
+  text-align: center;
+  margin: 0px auto;
+  margin-top: 50px;
+  text-decoration: none;
+}
+
